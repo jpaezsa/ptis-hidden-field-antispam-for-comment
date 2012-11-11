@@ -10,9 +10,7 @@ A simple plugin wich adds hidden field to comment form, to exclude auto-spam pos
 
 == Description ==
 
-Another attempt to make the Internet a cleaner from spammers. This plugin is practically invisible – it simply adds a hidden field in the form of comments, and after checking his availability, and compares the data with post-session request with a comment.
-
-Spammers are using technology to direct a post-script add a request for comments, users write comments using the form on the site. When it comes to comment on the spammers, then there is no hidden field, which is in the case of writing comments to the site. The value in this dynamic field and track its changes is simply impossible. Therefore, legitimate users can easily add comments and posts from spammers robots will get back where they belong – in the folder «Spam».
+This plugin does not have sense for use. Too old
 
 
 **Plugin benefits:**
